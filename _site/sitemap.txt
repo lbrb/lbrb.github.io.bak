@@ -31,6 +31,8 @@
 
 
 
+  /2015/01/12/mysql-index.html
+
   /2015/01/11/jquery-queue.html
 
   /2015/01/11/indicator-sysmonitor.html
