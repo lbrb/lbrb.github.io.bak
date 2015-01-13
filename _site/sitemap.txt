@@ -17,21 +17,23 @@
 
 
 
+  /2015/01/13/elasticsearch-1.html
+
+  /2015/01/13/book-list-of-2015.html
+
   /2015/01/12/mysql-index.html
 
   /2015/01/11/jquery-queue.html
 
   /2015/01/11/indicator-sysmonitor.html
 
+  /2015/01/02/my-2015.html
+
   /2014/05/11/general-mysql-resources.html
 
   /2014/04/16/insert-large-number-of-data-in-mysql.html
 
-  /2014/04/15/we-should-be-better-than-us.html
-
   /2014/04/11/redis-queue-in-laravel.html
-
-  /2014/03/14/book-list-of-2014.html
 
   /2014/03/10/grunt-bower-and-laravel.html
 
@@ -47,10 +49,6 @@
 
   /2014/01/15/general-git-resources.html
 
-  /2014/01/02/my-2013.html
-
-  /2013/12/20/book-list-of-2013.html
-
   /2013/12/11/deploy-pptp-vpn-in-ubuntu.html
 
   /2013/12/08/linux-command-continue.html
@@ -62,8 +60,6 @@
   /2013/08/06/tools-of-reading.html
 
   /2013/08/04/something-about-tools-i-used.html
-
-  /2013/08/01/the-importent-of-writing.html
 
   /2013/05/23/install-mysql-and-mongo-web-admin.html
 

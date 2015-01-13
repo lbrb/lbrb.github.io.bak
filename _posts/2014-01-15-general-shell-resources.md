@@ -115,3 +115,11 @@ description:
 ### 负载测试，30秒内向Google发起20个并发连接
 
     siege -c20 www.google.co.uk -b -t30s
+
+### Ubuntu apt-get
+
+    apt-cache search XXX
+    apt-get install XXX
+    apt-get remove XXX
+    apt-get update
+    apt-get upgrade
