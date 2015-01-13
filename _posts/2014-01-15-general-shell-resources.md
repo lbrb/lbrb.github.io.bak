@@ -2,8 +2,8 @@
 layout: post
 title: Shell 常用资源
 category: 资源
-tags: Shell
-keywords: Shell
+tags: [Shell, Linux]
+keywords: Shell, Linux
 description: 
 ---
 

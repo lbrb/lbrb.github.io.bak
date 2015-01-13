@@ -2,7 +2,7 @@
 layout: post
 title: Ubuntu14 添加系统监控
 category: 工具
-tags: Ubuntu
+tags: Linux
 keywords: ubuntu，sysmonitor
 ---
 
